@@ -27,13 +27,13 @@
 ##
 <div>
   <a href="https://github.com/luizandro-2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DocenteDevRafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizandro-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
 
 
   
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DocenteDevRafael&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Luizandro-2002&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
@@ -43,7 +43,7 @@
  ### TROPHIES
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocenteDevRafael&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luizandro-2002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  <p align="center"> 
   Visitors count<br>
