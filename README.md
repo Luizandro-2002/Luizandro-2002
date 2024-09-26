@@ -1,6 +1,6 @@
 # Olá, eu sou Luizandro
 - 👨🏿‍🏫 Atualmente estou estudando Técnico em Desenvolvimento de Sistemas no Senac - DF
-- 🧑🏿‍💻Estou estudando em Desenvolvimento Front-End, Back-end, Java e Banco de Dados
+- 🧑🏿‍💻Estou estudando em Desenvolvimento Front-End, Back-end, Banco de Dados, Java, Desktop, Mobile
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Cursos de Desenvolvimento de Sistemas
 
