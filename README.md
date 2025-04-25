@@ -54,9 +54,7 @@
 
 ## 📂 Repositórios em destaque
 
-- 🔗 [Projeto Front-End Responsivo](https://github.com/Luizandro-2002/NOME-DO-REPO)
-- 🔗 [Sistema de Cadastro com Java + Swing](https://github.com/Luizandro-2002/NOME-DO-REPO)
-- 🔗 [CRUD com PHP e MySQL](https://github.com/Luizandro-2002/NOME-DO-REPO)
+- 🔗 [Projeto Front-End Responsivo](https://github.com/ElisabeteOliveira/projeto_pet_care_app)
 
 <sub>Adicione ou substitua os links acima pelos seus projetos favoritos.</sub>
 
