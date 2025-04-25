@@ -63,9 +63,6 @@
 ## 📚 Certificações e Cursos
 
 - 🎓 **Senac - DF** — Técnico em Desenvolvimento de Sistemas *(Em andamento)*
-- 📜 **Curso de Lógica de Programação** — Alura
-- 📜 **Curso de Git e GitHub** — DIO
-- 📜 **Introdução ao Front-End** — Udemy
 
 ---
 
