@@ -26,13 +26,13 @@
 ### 🌐 Contatos:
 
 <div>
-  <a href="https://SEU-LINKEDIN" target="_blank">
+  <a href="https://luizandro-gomes-005145268" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:luizandrogomes44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/luizandro_gs" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
