@@ -54,7 +54,7 @@
 
 ## 📂 Repositórios em destaque
 
-- 🔗 [Projeto Front-End Responsivo](https://github.com/ElisabeteOliveira/projeto_pet_care_app)
+- 🔗 [Projeto Mobile-Java pet-care](https://github.com/ElisabeteOliveira/projeto_pet_care_app)
 
 <sub>Adicione ou substitua os links acima pelos seus projetos favoritos.</sub>
 
